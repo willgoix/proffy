@@ -1,1 +1,10 @@
-node-modules/
+# dependencies
+node_modules/
+
+# visual studio code
+.vscode/
+
+# production
+build/
+
+npm-debug.log*

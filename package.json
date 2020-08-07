@@ -1,0 +1,18 @@
+{
+  "name": "proffy",
+  "version": "1.0.0",
+  "description": "🚀 Projeto desenvolvido durante a Next Level Week #2 da @Rocketseat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "author": "Willian Gois",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
