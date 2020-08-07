@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/willgoix/proffy/blob/master/.github/logo.png" alt="Proffy" width="280"/>
+   <img src="./.github/logo.png" alt="Proffy" width="280"/>
 </p>
 
 <p align="center">	
@@ -17,11 +17,12 @@
 <div align="center">
     <a href="#sparkles-sobre">Sobre</a>&nbsp;|&nbsp;
     <a href="#art-layout">Layout</a>&nbsp;|&nbsp;
+    <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
     <a href="#pencil-licença">Licença</a>
  </div>
 
  <div align="center">
-   <img src="https://github.com/willgoix/proffy/blob/master/.github/cape.png" width="400px">
+   <img width="650px" src="./.github/cape.png" alt="Capa do projeto">
 </div>
 
 <div align="center">
@@ -33,7 +34,7 @@
 
 Aplicação feita durante a **Next Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br).
 
-## :art: Layout:
+## :art: Layout
 <div style="display: flex; flex-direction: row; justify-content: space-evenly">
     <div>
         <a title="Figma - Proffy Web" alt="Figma - Proffy Web" href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web/duplicate">
@@ -49,8 +50,11 @@ Aplicação feita durante a **Next Level Week #2**, projeto da [Rocketseat](http
     </div>
 </div>
 
-# :pencil: Licença
+## :rocket: Tecnologias
+-  [Node.js](https://nodejs.org/)
 
-Este projeto está sobre a [MIT license](https://github.com/willgoix/proffy/master/LICENSE).
+## :pencil: Licença
+
+Este projeto está sobre a [MIT license](./LICENSE).
 
 Feito com :heart: por [Willian Gois](https://github.com/willgoix).
