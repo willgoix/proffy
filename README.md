@@ -18,6 +18,7 @@
     <a href="#sparkles-sobre">Sobre</a>&nbsp;|&nbsp;
     <a href="#art-layout">Layout</a>&nbsp;|&nbsp;
     <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
+    <a href="#computer-executando-o-projeto">Executando o projeto</a>&nbsp;|&nbsp;
     <a href="#pencil-licença">Licença</a>
  </div>
 
@@ -25,14 +26,12 @@
    <img width="650px" src="./.github/cape.png" alt="Capa do projeto">
 </div>
 
-<div align="center">
-  <sub>Desenvolvido com ❤️ por <a href="https://github.com/willgoix">Willian Gois</a>.</sub>
-</div>
-
 ## :sparkles: Sobre
 :rocket: **Proffy** é uma aplicação Web e Mobile desenvolvida para conectar alunos e professores, possibilitando professores cadastrarem as matérias que podem dar, seus horários e custos, e aos alunos, podendo buscar pelas aulas disponíveis.
 
-Aplicação feita durante a **Next Level Week #2**, projeto da [Rocketseat](https://rocketseat.com.br).
+Aplicação desenvolvida durante a [**Next Level Week #2**](https://nextlevelweek.com/episodios/discovery/edicao/2), pela trilha Discovery, projeto da [Rocketseat](https://rocketseat.com.br).
+
+---
 
 ## :art: Layout
 <div style="display: flex; flex-direction: row; justify-content: space-evenly">
@@ -50,11 +49,38 @@ Aplicação feita durante a **Next Level Week #2**, projeto da [Rocketseat](http
     </div>
 </div>
 
+---
+
 ## :rocket: Tecnologias
+-  [JavaScript](https://www.javascript.com)
 -  [Node.js](https://nodejs.org/)
+-  [Nunjucks](https://www.npmjs.com/package/nunjucks)
+-  [SQLite](https://www.npmjs.com/package/sqlite)
+-  [HTML]https://www.w3schools.com/css/
+-  [CSS](https://www.w3schools.com/html/)
+
+---
+
+## :computer: Executando o projeto
+``` bash
+# Clonar o repositório
+git clone https://github.com/willgoix/proffy-discovery
+
+# Entrar na raíz do projeto
+cd proffy-discovery
+
+# Baixar as dependências
+npm install
+
+# Executar o servidor
+npm run dev
+Agora, acesse a aplicação através de http://localhost:3333/.
+```
 
 ## :pencil: Licença
 
 Este projeto está sobre a [MIT license](./LICENSE).
 
-Feito com :heart: por [Willian Gois](https://github.com/willgoix).
+<div align="center">
+  <sub>Desenvolvido com 💜 por <a href="https://github.com/willgoix">Willian Gois</a>.</sub>
+</div>
