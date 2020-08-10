@@ -56,7 +56,7 @@ Aplicação desenvolvida durante a [**Next Level Week #2**](https://nextlevelwee
 -  [Node.js](https://nodejs.org/)
 -  [Nunjucks](https://www.npmjs.com/package/nunjucks)
 -  [SQLite](https://www.npmjs.com/package/sqlite)
--  [HTML]https://www.w3schools.com/css/
+-  [HTML](https://www.w3schools.com/css/)
 -  [CSS](https://www.w3schools.com/html/)
 
 ---
@@ -74,6 +74,7 @@ npm install
 
 # Executar o servidor
 npm run dev
+
 Agora, acesse a aplicação através de http://localhost:3333/.
 ```
 
