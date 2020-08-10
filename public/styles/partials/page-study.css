@@ -133,6 +133,7 @@
     max-width: 30rem;
     margin: 12rem auto;
     text-align: center;
+    color: var(--color-text-complement);
 }
 
 @media (min-width: 700px) {
