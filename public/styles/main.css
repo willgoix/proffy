@@ -19,6 +19,7 @@
     --color-box-base: #FFFFFF;
     --color-box-footer: #FAFAFC;
     --color-small-info: #C1BCCC;
+    --color-box-remove: #E33D3D;
     
     /* default font size */
     font-size: 60%; /* rem measures control (100% = 16px = 1rem) */
